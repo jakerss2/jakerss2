@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jakerss2
 - 👀 I’m interested in coding and learning. Hopefully learn enough to do stuff with sports/sports analytics 
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jakewbell04@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started to learn coding a year ago.
